@@ -1,4 +1,8 @@
 # Hi there 🫡
-## My name is Roma, Frontend developer
-I'm really enjoying and enthusiastic about learning new technologies. In 2020 I started learning **HTML CSS JS**. From 2021 till now, I learning **React Redux toolkit TypeScript**
 
+## My name is Roman, and I'm an experienced developer in React, Redux Toolkit, HTML, CSS, and JavaScript/TypeScript. 
+
+## I have a strong knowledge of web application development and ensuring high-quality code. 
+
+My GitHub profile showcases projects that demonstrate my skills in developing functional components, using *Redux Toolkit* to manage application state, and effectively utilizing *HTML and CSS* to create a user-friendly and attractive interface. 
+## I am always open to collaboration and ready to participate in projects that will help me grow and improve my skills.
