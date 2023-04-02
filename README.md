@@ -1,6 +1,6 @@
 # Hi there 🫡
 
-My name is Roman, and I'm an experienced developer in **React, Redux Toolkit, HTML, CSS, and JavaScript/TypeScript.**
+My name is Roman, and I'm an experienced developer in **React/Next, Redux Toolkit, HTML, CSS, and JavaScript/TypeScript.**
 
 I have a strong knowledge of web application development and ensuring high-quality code. 
 
